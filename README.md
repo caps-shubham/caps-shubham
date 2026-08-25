@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shubham%20Akash&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%26%20Creator%20%7C%20Building%20with%20code%2C%20designing%20with%20purpose&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Shubham%20Akash&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20and%20Creator%20%7C%20Building%20with%20code%2C%20designing%20with%20purpose&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/caps-shubham">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Shubham+%F0%9F%91%8B;Frontend+Developer+%7C+Creative+Coder;Turning+ideas+into+interactive+experiences;Always+learning,+always+building.&font=Fira+Code&center=true&width=600&height=50&color=2575fc&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
