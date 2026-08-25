@@ -57,8 +57,6 @@
 <img src="https://github-stats-extended.vercel.app/api?username=caps-shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caps-shubham&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caps-shubham&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&width=1000" width="100%"/>
