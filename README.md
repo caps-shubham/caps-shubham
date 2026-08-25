@@ -54,10 +54,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caps-shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caps-shubham&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caps-shubham&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=caps-shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caps-shubham&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caps-shubham&theme=tokyo-night&hide_border=true" width="100%"/>
 
@@ -67,19 +65,11 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/caps-shubham/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caps-shubham&repo=My-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/caps-shubham/Alfaco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caps-shubham&repo=Alfaco&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/caps-shubham/VizWithCaps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caps-shubham&repo=VizWithCaps&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Project | Description | Tech |
+|---|---|---|
+| 🎨 **[My-Portfolio](https://github.com/caps-shubham/My-Portfolio)** | Personal portfolio showcasing my projects, skills & creative work | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🛍️ **[Alfaco](https://github.com/caps-shubham/Alfaco)** | E-commerce UI project built to practice modern frontend development | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🧠 **[VizWithCaps](https://github.com/caps-shubham/VizWithCaps)** | Interactive code visualization tool for understanding program execution | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&width=1000" width="100%"/>
 
