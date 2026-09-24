@@ -20,7 +20,9 @@
 ## 🚀 About Me
 
 - 🎨 **Developer & Creator** — I build with code and design with purpose
-- 🔭 Currently working on a few frontend and UI-focused projects — check my [repositories](https://github.com/caps-shubham?tab=repositories) for the latest
+- 🔭 Currently crafting **[My-Portfolio](https://github.com/caps-shubham/My-Portfolio)**, an interactive personal showcase
+- 🛍️ Exploring modern frontend patterns through **[Alfaco](https://github.com/caps-shubham/Alfaco)**, an e-commerce UI build
+- 🧠 Building **[VizWithCaps](https://github.com/caps-shubham/VizWithCaps)** — a tool that visualizes code execution in real time
 - 🌱 Always learning — currently deepening my skills in interactive & 3D-style web experiences
 - ⚡ Fun fact: I'd rather animate a button for an hour than leave it static
 
@@ -59,11 +61,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&width=1000" width="100%"/>
 
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎨 **[My-Portfolio](https://github.com/caps-shubham/My-Portfolio)** | Personal portfolio showcasing my projects, skills & creative work | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🛍️ **[Alfaco](https://github.com/caps-shubham/Alfaco)** | E-commerce UI project built to practice modern frontend development | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🧠 **[VizWithCaps](https://github.com/caps-shubham/VizWithCaps)** | Interactive code visualization tool for understanding program execution | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&width=1000" width="100%"/>
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.instagram.com/caps_shubham75"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
